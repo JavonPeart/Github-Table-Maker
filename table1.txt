@@ -1,0 +1,3 @@
+| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=html"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=react"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=cs"/> |
+|---|:---:|---|---| --- | ---
+| <p align="center">C</p> |  HTML | Python | React | <p align="center">Java</p> | C# This content is added to the existing content.
