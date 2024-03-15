@@ -6,7 +6,7 @@ def header(icon):
     return f'| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i={icon}"/>'
 
 def footer(name):
-    return f'| <p align="center">{name}</p>'
+    return f'| <p align="center"> `{name}` </p>'
 
 def initialize_file(filename, num_lines):
     if not os.path.exists(filename):
@@ -55,7 +55,7 @@ def update_data():
         add_new_data(filename, 3, foot)
         
         clear_leading_spaces(filename)
-        print("------------------------------")
+        print("-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+")
 
 def main():
     print("Welcome to the Icon and Name Editor!")
@@ -68,3 +68,53 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+lang:
+
+    python
+    java
+    c
+    c#
+    lua
+    HTML
+    CSS
+    JS
+
+tools:
+    idea
+    vscode
+    latex   
+    mysql
+    notion
+    unity 
+    git
+    studio
+    Flask
+
+
+
+"""
