@@ -35,7 +35,12 @@ The GUI is incredible simple leaving room for much improvement. The backend is m
 <br>
 
 <h3>Sample Table</h3>
-<img src="table.png" alt="Alt text" style="width: 600px; height: auto;">
+
+| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=cpp"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=cs"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=lua"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=vscode"/> 
+|---|---|---|---|---|---|---
+| <p align="center"> `C` </p> | <p align="center"> `C++` </p> | <p align="center"> `C#` </p> | <p align="center"> `Lua` </p> | <p align="center"> `Java` </p> | <p align="center"> `Python` </p> | <p align="center"> `VS Code` </p> 
+
+<br>
 
 ## References
 - [ttkBootstrap](https://ttkbootstrap.readthedocs.io/en/latest/)
