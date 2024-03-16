@@ -1,0 +1,4 @@
+| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=cpp"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=cs"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=lua"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=vscode"/> 
+|---|---|---|---|---|---|---
+| <p align="center"> `C` </p> | <p align="center"> `C++` </p> | <p align="center"> `C#` </p> | <p align="center"> `Lua` </p> | <p align="center"> `Java` </p> | <p align="center"> `Python` </p> | <p align="center"> `VS Code` </p> 
+
