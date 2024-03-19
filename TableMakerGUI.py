@@ -2,6 +2,8 @@ import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
 from lib.createForm import create_form_entry
 from lib.createButton import create_buttonbox
+from lib.windowManager import *
+from lib.createFrame import create_labelFrame
 
 
 class DataEntryForm(ttk.Frame):
@@ -32,27 +34,13 @@ class DataEntryForm(ttk.Frame):
         create_form_entry(self, "Icon", self.icon, True)
         create_form_entry(self, "Name", self.name)
         create_buttonbox(self)
-        
-        container = ttk.Frame(self)
-        container.pack(fill=BOTH, expand=NO, pady=[10, 5])
-
-        banner = ttk.LabelFrame(
-            master=container,
-            bootstyle=INFO, 
-            text="Output Panel",
-            borderwidth=10,
-            height=100,
-        )
-        banner.pack(fill=X, padx=5, pady=[5, 5])
-    
-        bLabel = ttk.Label(banner, textvariable=self.output, padding=5, font=["Helvetica", 12, "italic"])
-        bLabel.pack(pady=[0, 10], anchor=CENTER)
-
-
+        create_labelFrame(self, self.output)
 
 
 if __name__ == "__main__":
 
-    app = ttk.Window("Data Entry", "superhero", resizable=(FALSE, FALSE), size=[800, 500])
+    app = ttk.Window("Skill-Icons Table Maker", "superhero", resizable=(FALSE, FALSE))
+    center_window(app, 800, 510)
     DataEntryForm(app)
+    app.bind("<Escape>", lambda e: quit())
     app.mainloop()

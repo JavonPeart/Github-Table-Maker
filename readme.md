@@ -30,7 +30,7 @@ The GUI is incredible simple leaving room for much improvement. The backend is m
 ## Screenshots
 
 <h3>GUI</h3>
-<img src="gui.png" alt="Alt text" style="width: 600px; height: auto;">
+<img src="img/gui.png" alt="Alt text" style="width: 600px; height: auto;">
 
 <br>
 

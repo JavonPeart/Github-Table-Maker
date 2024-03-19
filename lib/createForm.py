@@ -1,5 +1,6 @@
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
+from lib.createTable import create_table
 
 def create_form_entry(self, label, variable, fc=False):
     """Create a single form entry"""
@@ -11,5 +12,6 @@ def create_form_entry(self, label, variable, fc=False):
 
     ent = ttk.Entry(master=container, textvariable=variable)
     ent.pack(side=LEFT, padx=5, fill=X, expand=YES)
+    ent.bind("<Return>", lambda e: create_table(self))
     
     if fc: ent.focus_set()
