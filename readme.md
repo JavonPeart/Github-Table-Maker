@@ -11,10 +11,13 @@ God Bless! ❤️
 
 ## Description
 This project was made using the `TtkBootstrap` python library
-> ttkbootstrap remodels the original tkinter library to use bootstrap style themes
+>  ℹ️ ttkbootstrap remodels the original tkinter library to use bootstrap style themes
 
 <br>
-The GUI is incredible simple leaving room for much improvement. The backend is missing some useful usability features but I decided to stick with this simple design (maybe I'll come back to this in the future)
+The GUI is incredible simple leaving room for much improvement. The backend is missing some useful usability features but I decided to stick with this simple design (maybe I'll come back to this in the future)  
+
+> ℹ️ Please note that you can convert the finished code to an executable by using:  
+> `C:\\> pyinstaller yourprogram.py --collect-all ttkbootstrap`
 
 #### Features Included:
 * File creation
@@ -45,3 +48,4 @@ The GUI is incredible simple leaving room for much improvement. The backend is m
 ## References
 - [ttkBootstrap](https://ttkbootstrap.readthedocs.io/en/latest/)
 - [Skill-Icons Giithub](https://github.com/tandpfun/skill-icons#readme)
+- [Pyinstaller Guide (StackOverflow)](https://stackoverflow.com/questions/67850998/ttkbootstrap-not-working-with-pyinstaller#:~:text=C%3A%5C%5C%3E%20pyinstaller%20yourprogram.py%20%2D%2Dcollect%2Dall%20ttkbootstrap)
