@@ -47,5 +47,5 @@ The GUI is incredible simple leaving room for much improvement. The backend is m
 
 ## References
 - [ttkBootstrap](https://ttkbootstrap.readthedocs.io/en/latest/)
-- [Skill-Icons Giithub](https://github.com/tandpfun/skill-icons#readme)
+- [Skill-Icons Github](https://github.com/tandpfun/skill-icons#readme)
 - [Pyinstaller Guide (StackOverflow)](https://stackoverflow.com/questions/67850998/ttkbootstrap-not-working-with-pyinstaller#:~:text=C%3A%5C%5C%3E%20pyinstaller%20yourprogram.py%20%2D%2Dcollect%2Dall%20ttkbootstrap)
